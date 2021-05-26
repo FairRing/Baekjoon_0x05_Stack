@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Tower/src",
+        "StackSequence/src",
+        "Stack/src",
+        "Zero/src"
+    ]
+}
