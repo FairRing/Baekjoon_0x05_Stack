@@ -3,6 +3,7 @@
         "Tower/src",
         "StackSequence/src",
         "Stack/src",
-        "Zero/src"
+        "Zero/src",
+        "DecoratingRoofGarden/src"
     ]
 }
